@@ -1,0 +1,93 @@
+Parkinson's Tie to Impulsiveness Studied
+
+Your brain is supposed to fire a "hold your horses" signal when faced with a
+tough choice. But a brain implant that stops the tremors of Parkinson's disease
+may block that signal — a new explanation for why some Parkinson's patients
+become hugely impulsive.
+
+Scientists have long known that anti-Parkinson medications occasionally spark
+compulsions like pathological gambling.
+
+Research published Thursday found another treatment, a pacemaker-like brain
+implant, can trigger a completely different kind of impulsiveness.
+
+How different? The drugs leave a subset of patients unlikely to learn from bad
+experiences, like a losing poker hand.
+
+The brain implant doesn't hinder learning. In contrast, those patients can make
+hasty decisions as the brain loses its automatic tendency to hesitate when faced
+with conflict, University of Arizona researchers reported online in the journal
+Science.
+
+In fact, the first patient they studied displayed an alarming example when he
+saw something across the room he wanted and tried to dash over without his
+wheelchair. Neuroscientist Michael Frank had to catch the man before he fell.
+
+"Deep brain stimulation," or DBS, involves placing electrodes into a small
+region called the subthalamic nucleus, an area important for controlling
+movement. But it also is where scientists believe the brain yells: "Stop, weigh
+your options!"
+
+Frank's theory: When electrodes fire to disrupt excessive movement, they also
+may block that signal.
+
+"It makes a lot of sense," said Dr. Valerie Voon, a psychiatrist with the
+National Institutes of Health's neurology center, after reviewing the research.
+
+The study doesn't offer easy solutions. But it could affect how neurologists
+counsel Parkinson's patients after DBS surgery.
+
+"Because they don't have those brakes in place, you need to teach someone to
+slow down" when faced with certain decisions, Voon said.
+
+At least 1 million Americans have Parkinson's, suffering increasingly severe
+tremors and periodically stiff or frozen limbs as brain cells quit producing
+dopamine, a chemical crucial for movement. There is no cure. Standard treatments
+include medications to stimulate dopamine and, once those fail, DBS surgery to
+control tremors.
+
+Doctors have long noticed varying degrees of impulsiveness in Parkinson's
+patients, from making uncensored remarks to rare cases of extreme behavior such
+as compulsive gambling, shopping, eating or sex. Changing medications or doses
+often solves extreme symptoms _ if patients or their families report the
+worrisome behavior.
+
+Frank wondered what role the brain implant plays.
+
+His team used specialized computer games to probe decision-making in 15
+Parkinson's patients taking dopamine drugs, 17 others who received DBS, and 14
+healthy older adults.
+
+First, participants were shown pairs of Japanese characters and told to pick the
+"correct" one. It was baffling — what makes one symbol better, especially if you
+don't know Japanese? But as the computer screen beamed back "Correct!" or
+"Incorrect!" their brains learned to prefer some characters over others.
+
+Then Frank paired the symbols differently: "Correct" ones together to simulate
+"win-win" decisions; "incorrect" pairings to model choosing the lesser of two
+evils; and easy "right-wrong" pairs.
+
+Healthy people and Parkinson's patients on dopamine drugs hesitated briefly when
+faced with win-win or lose-lose choices, allowing time to weigh options. But DBS
+patients didn't hesitate with lose-lose choices _ and actually sped up win-win
+decisions.
+
+Remarkably, switch off the brain implant and DBS patients quit rushing the close
+calls.
+
+As in previous research, medicated patients were less likely to learn which
+"wrong" symbols to avoid, backing the theory that dopamine drugs can hinder
+learning from negative feedback.
+
+But do the DBS patients' hasty choices really matter in a win-win situation,
+where there's no clearly wrong answer?
+
+In the real world, definitely, said Arizona's Frank. Say your job offers a range
+of 401K options. Sure, any one is better than no investment, but just grabbing
+the first one might not be the most lucrative.
+
+It hasn't been obvious that different treatments cause different impulsive
+behaviors, said Dr. Kathleen Shannon of Chicago's Rush University Hospital.
+
+"They all seem to make bad decisions and have trouble making decisions," she
+said. Now, "I'll start to look at my patients differently."
